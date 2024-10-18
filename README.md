@@ -5,7 +5,7 @@ Features
 
 User-Friendly Interface:
 
-An intuitive and user-friendly interface for customers to perform various transactions seamlessly.
+An intuitive and user-friendly interface for customers to perform various transactions seamlessly. 
 Secure Authentication: 
 
 Advanced authentication methods, ensuring secure access to accounts and transactions.
