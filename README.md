@@ -26,9 +26,6 @@ Real-time Notifications:
 
 Instant notifications to customers for successful transactions and important updates.
 
-Multi-Language Support:
-
-Provides support for multiple languages, enhancing accessibility for diverse user bases.
 
 Reports and Analytics: 
 
